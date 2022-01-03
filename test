@@ -1,0 +1,8 @@
+$ mkdir it385
+$ cd it385
+$ git init
+$ echo "# IT385 readme" > README.md
+$ git add README.md
+$ git commit -m "first commit"
+$ git remote add origin https://github.com/edgoad/it385.git
+$ git push -u origin master
